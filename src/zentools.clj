@@ -11,4 +11,4 @@
 (defmacro ??? []
   `(throw
     (ex-info "Function not yet implemented"
-             {:causes (NotImplementedException.)})))
+             {:causes (UnsupportedOperationException.)})))
