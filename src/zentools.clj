@@ -1,4 +1,4 @@
-(ns zentoolz)
+(ns zentools)
 
 ;;; https://github.com/klutometis/lambda
 
